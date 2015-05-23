@@ -1,0 +1,36 @@
+{
+  "name": "karma_requirejs",
+  "version": "1.0.0",
+  "description": "Get Karma to run with RequireJS",
+  "main": "index.js",
+  "dependencies": {
+    "karma": "^0.12.32"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.32",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.17"
+  },
+  "scripts": {
+    "postinstall": "bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foomango/karma_requirejs.git"
+  },
+  "keywords": [
+    "Karma",
+    "RequireJS"
+  ],
+  "author": "foomango@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foomango/karma_requirejs/issues"
+  },
+  "homepage": "https://github.com/foomango/karma_requirejs"
+}

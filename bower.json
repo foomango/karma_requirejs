@@ -1,0 +1,23 @@
+{
+  "name": "karma_requirejs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/foomango/karma_requirejs",
+  "authors": [
+    "Ferry Wang <foomango@gmail.com>"
+  ],
+  "description": "Get karma to run with RequireJS",
+  "keywords": [
+    "Karma",
+    "RequireJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+  "dependencies": {
+  }
+}
